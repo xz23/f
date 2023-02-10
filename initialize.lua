@@ -1,6 +1,7 @@
 
 getgenv().Variables = {}
 
+Variables.State = ""
 Variables.Players = game:GetService("Players")
 Variables.ReplicatedStorage = game:GetService("ReplicatedStorage")
 Variables.UserInputService = game:GetService("UserInputService")
